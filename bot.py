@@ -78,6 +78,10 @@ tweets = [
 
 logger = logging.getLogger("net-neutrality-bot")
 logger.setLevel(logging.INFO)
+ch = logging.StreamHandler()
+fmt = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+ch.setFormatter(fmt=fmt)
+logger.addHandler(ch)
 
 
 
