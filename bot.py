@@ -70,7 +70,9 @@ tweets = [
 
     "Without #netneutrality, indie artists and musicians will struggle to be heard: http://www.rollingstone.com/music/news/net-neutrality-how-a-repeal-could-kill-artists-careers-w513787 Join the protest: https://www.battleforthenet.com/",
 
-    "Millions of Internet users are asking about #NetNeutrality ahead of the FCC’s plan to repeal the rules on December 14th. Head to battleforthenet.com to see what it’s all about and what you can do about it."
+    "Millions of Internet users are asking about #NetNeutrality ahead of the FCC’s plan to repeal the rules on December 14th. Head to battleforthenet.com to see what it’s all about and what you can do about it.",
+
+    "Run this twitter-bot to send a message: https://github.com/tuxpowered/twitter-net-neutrality-bot",
 ]
 
 
